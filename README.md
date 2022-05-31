@@ -1,8 +1,11 @@
 # Welcom to HeartDisease Dataset
-Classification project on heart disease datasets. I use data undersampling with some modeling such as Random Forest, KNN, Logistic Regression. Finally, reveal some of the factors that trigger heart disease.
+Classification project on heart disease dataset. I use some various modelings to predict whether someone are having a heart disease. Finally, i reveal several factors that trigger heart disease on adult.
+
+# Aim of this project
+The main objective of this project is to develop some machine learnings clasification to prove what factors afected heart disease. 
 
 # About Dataset
-According to the https://www.cdc.gov/heartdisease/risk_factors.htm, heart disease is one of the leading causes of death for people of most races in the US (African Americans, American Indians and Alaska Natives, and white people). About half of all Americans (47%) have at least 1 of 3 key risk factors for heart disease: high blood pressure, high cholesterol, and smoking.
+The dataset from [Kaggle] (https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease)
+The contributor claims that most feature of datasets get from [cdata](https://www.cdc.gov/heartdisease/risk_factors.htm).
 
-# Project Objective
-To prove what factors influence heart disease in adults in this dataset. This project will be updated to be able to predict whether someone has the potential to have heart disease or not?
+

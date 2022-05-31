@@ -2,8 +2,8 @@
 Classification project on heart disease dataset. I use some various modelings to predict whether someone are having a heart disease. The dataset have imbalanced data so i use undersampling method to get better result in modelling. 
 
 # Aim of this project
-- Developing some machine learnings clasification to prove what factors afected heart disease.
-- Revealing several factors that trigger heart disease on adult.
+- Developing some machine learning classification to prove what factors affected heart disease.
+- Revealing several factors that trigger heart disease in adults.
 
 # About Dataset
 The dataset from [Kaggle](https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease). The contributor claims that most feature of datasets get from [cdata](https://www.cdc.gov/heartdisease/risk_factors.htm).
